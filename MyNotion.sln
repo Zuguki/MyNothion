@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9192D3F3-5E16-4E1F-BB6A-06B18ED374F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Domain", "Notes.Domain\Notes.Domain.csproj", "{C6026E20-05B3-4998-9D04-FA5533F97463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6026E20-05B3-4998-9D04-FA5533F97463} = {9192D3F3-5E16-4E1F-BB6A-06B18ED374F6}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6026E20-05B3-4998-9D04-FA5533F97463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6026E20-05B3-4998-9D04-FA5533F97463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6026E20-05B3-4998-9D04-FA5533F97463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6026E20-05B3-4998-9D04-FA5533F97463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
